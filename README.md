@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Random19102
 - Learning python lol
-- I'm creating a python remake of doors that, when complete, you can download on my webite: https://arandomwebsite.ddns.net 
+- I'm creating a python remake of doors that, when complete, you can download on my webite: !Website is down!
 - 📫 My discord: adding later
 
 <!---
